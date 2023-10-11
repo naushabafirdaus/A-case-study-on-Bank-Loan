@@ -5,7 +5,7 @@ When a customer applies for a loan, any financial company faces two risks:
 i.e
 If the applicant can repay the loan but is not approved, the company loses business.
 If the applicant cannot repay the loan and is approved, the company faces a financial loss.
-The dataset I'll be working with contains information about loan applications. It includes two types of scenarios:
+The dataset I worked with contains information about loan applications. It includes two types of scenarios:
 
 Customers with payment difficulties: These are customers who had a late payment of more than X days on at least one of the first Y installments of the loan.
 All other cases: These are cases where the payment was made on time.
